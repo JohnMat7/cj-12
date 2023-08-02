@@ -1,0 +1,18 @@
+
+public class Day2_5 {
+
+	public static void main(String[] args) 
+	{
+
+		String str ="125";
+		int num =Integer.parseInt("50");
+		float  fval = Float.parseFloat("3.14f");
+		double dval = Double.parseDouble("7.7");
+		System.out.println("Str = "+str);
+		System.out.println("Num = "+num);
+		System.out.println("Fval  ="+fval);
+		System.out.println("Dval = "+dval);
+		System.out.println("Result = "+(num+fval+dval));
+	}
+
+}

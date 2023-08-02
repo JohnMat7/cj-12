@@ -1,0 +1,24 @@
+
+class A
+{
+	
+}
+class B
+{
+	
+}
+class C
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Core Java Modular Batch");
+	}
+}
+public class Day2_1 {
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Core Java Modular Batch");
+	}
+
+}

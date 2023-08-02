@@ -1,0 +1,12 @@
+
+public class Day2_3 {
+
+	public static void main(String[] args) 
+	{
+		int a=5;
+		int b=3;
+		if(a>1 && b>1)
+			System.out.println("Both values are greater than 1");
+	}
+
+}

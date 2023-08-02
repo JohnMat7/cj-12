@@ -1,0 +1,22 @@
+
+// variables and datatypes
+
+public class Day2_2 
+{
+
+	public static void main(String[] args) 
+	{
+		int num=20; //variable inialization
+		System.out.println(num);
+		// Number = 20
+		System.out.println("Number = "+num);
+		
+		int a;
+		//System.out.println("A = "+a); //compile time error // javac error 
+		// the local variable may not have been initialized
+		// java does not allow uninialized variables
+		a=25;
+		System.out.println("Value of A = "+a);
+	}
+
+}

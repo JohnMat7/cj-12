@@ -1,0 +1,14 @@
+
+// variables and datatypes
+
+public class Day2_2 
+{
+
+	public static void main(String[] args) 
+	{
+		int num=20; //variable inialization
+		System.out.println(num);
+		
+	}
+
+}
